@@ -38,6 +38,16 @@ export const projects = [
     visit: "https://github.com/iamutkarshyadav/GraceChatApp.git",
     id: 3,
   },
+  {
+    title: "Zombie Shooter",
+    description:
+      "This is a code repository for the corresponding Zombie Shooter game using Unreal Engine 5 and Blueprints",
+    image: "/images/p5.png",
+    tags: ["Shooter", "Unreal Engine", "Blueprints"],
+    source: "https://google.com",
+    visit: " ",
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
